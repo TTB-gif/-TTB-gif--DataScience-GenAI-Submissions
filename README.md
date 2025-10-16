@@ -4,4 +4,4 @@ This repository contains all assignment notebooks, data analysis, and code devel
 
 ## Assignments' Status
 
-- [Assignment 2: Data and Feature Engineering]([./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb](https://github.com/TTB-gif/-TTB-gif--DataScience-GenAI-Submissions/blob/main/Copy_of_2_01_data_and_feature_engineering_in_pandas.ipynb))
+- [Assignment 2: Data and Feature Engineering](./Copy_of_2_01_data_and_feature_engineering_in_pandas.ipynb)
